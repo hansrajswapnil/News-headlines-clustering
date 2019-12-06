@@ -1,1 +1,0 @@
-this rep contains implementation of skipgram model in word2vec using basic python libraries like numpy and collections.
